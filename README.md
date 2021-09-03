@@ -3,4 +3,4 @@ Example (small base model) for ROS2 develop.
 
 In `ros2_communication` contains ros2 `msg` 、`srv`、`action` achieve.(c++ & python)
 
-Each of this can compile single.
+Each of them can compile single.
